@@ -58,7 +58,7 @@ for (let name in allData) {
     // data.profile is their profile with name, bio, etc
     // data.application is their application with website and impact metrics, etc
     // **********************************
-
+    
     // **********************************
 
     // **********************************
